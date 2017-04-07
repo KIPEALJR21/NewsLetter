@@ -1,0 +1,51 @@
+<mjml>
+	<mj-head>
+	    <mj-title> Ngorder news </mj-title>
+
+        <mj-style>
+            @media all and (max-width: 480px){
+                
+            }
+        </mj-style>
+	</mj-head>
+
+    <mj-body>
+        <mj-container>
+            <mj-section background-color="#4661A6" padding="0">
+                 <mj-column>
+                    <mj-text color="#fefefe" align="center" font-size="22px" font-weight="400">
+                        Ngorder news
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ebebeb" padding="0">
+                <mj-column width="100%">
+                    <mj-image src="img/header-back.png" padding="0" />
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ebebeb" padding="10px 10px">
+                <mj-column width="100%">
+                    <mj-text color="#4661A6" align="center" font-size="25px" font-weight="500">
+                        Empowering Your Company.
+                    </mj-text>
+                </mj-column>
+            	<mj-column width="100%">
+            	    <mj-image src="img/brosur1.png" />
+            	</mj-column>
+                <mj-column>
+                    <mj-button background-color="transparent" border="1px solid #4661A6" color="#4661A6"> Lihat Promo >> </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff">
+                <mj-column>
+                    <mj-text font-size="16px">
+                        Ngorder news 2017
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-social mode="horizontal" display="twitter facebook google instagram" instagram-href="" twitter-href="" facebook-href="" google-href="" />
+                </mj-column>
+            </mj-section>
+        </mj-container>
+    </mj-body>
+</mjml>
